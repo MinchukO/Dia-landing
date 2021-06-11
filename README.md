@@ -13,5 +13,5 @@ Implement landing page according to [Figma design](https://www.figma.com/file/7q
 4. Javascripts (mobile-menu, slider)
 5. Implementation in two colors
 
-[DEMO LINK](https://minchuko.github.io/dia-landing/).
+[DEMO LINK](https://minchuko.github.io/Dia-landing/).
 
